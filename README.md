@@ -5,6 +5,7 @@ A shopping based app created in Flutter, designed in Figma
 <p align="center">
   <img src="screenshots/cover.png" />
 </p>
+
 ## Screenshots
 
 
