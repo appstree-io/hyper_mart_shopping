@@ -1,6 +1,7 @@
 # HyperMart Figma to Flutter
 
-A shopping based app created in Flutter, designed in Figma
+A shopping based app created in Flutter, designed in Figma.
+ https://www.figma.com/file/Fl2mWaAARvWeygLpCPXXcw/HyperMart-App-(Community)?node-id=17%3A986
 
 <p align="center">
   <img src="screenshots/cover.png" />
